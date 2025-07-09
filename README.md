@@ -3,7 +3,7 @@
 🎓 Estudante de Sistemas de Informação  
 🎨 Web Designer focada em Design Web e UX  
 💻 Apaixonada por transformar ideias em interfaces bonitas e funcionais  
-🎯 Em busca de freelas, oportunidades e crescimento constante
+🎯 Em busca de oportunidades e crescimento constante
 
 ## 🚀 Minhas Skills
 
