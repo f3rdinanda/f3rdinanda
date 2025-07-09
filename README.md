@@ -9,14 +9,14 @@
 
 - **Design Web:** Figma, Canva, Inkscape  
 - **Front-end:** HTML5, CSS3, JavaScript, Bootstrap  
-- **Back-end:** PHP, MySQL, C, C#, Python (básico)  
+- **Back-end:** PHP, MySQL, C, Python (básico)  
 - **Outras:** Git, GitHub, WordPress, Office
 
 ## 💼 Portfólio e redes
 
-- 🌐 [Behance](https://behance.net/seulink)  
-- 💼 [LinkedIn](https://linkedin.com/in/seulink)  
-- 🎨 [Workana](https://www.workana.com/freelancer/seuperfil)
+- 🌐 [Behance](https://behance.net/fernandfernand514)  
+- 💼 [LinkedIn](https://linkedin.com/in/fernanda-fernandes-213643360/)  
+- 🎨 [Workana](https://www.workana.com/freelancer/3d25e80c3367c57e5422f0eedb17d40d)
 
 ✨ Obrigada por visitar meu GitHub!
 
