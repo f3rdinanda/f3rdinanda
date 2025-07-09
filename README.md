@@ -1,5 +1,25 @@
-Olá! Eu sou Fernanda Fernandes!
-<p>Web designer </p>
+# Oi! Eu sou a Fernanda 💻✨
+
+🎓 Estudante de Sistemas de Informação  
+🎨 Web Designer focada em Design Web e UX  
+💻 Apaixonada por transformar ideias em interfaces bonitas e funcionais  
+🎯 Em busca de freelas, oportunidades e crescimento constante
+
+## 🚀 Minhas Skills
+
+- **Design Web:** Figma, Canva, Inkscape  
+- **Front-end:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Back-end:** PHP, MySQL, C, C#, Python (básico)  
+- **Outras:** Git, GitHub, WordPress, Office
+
+## 💼 Portfólio e redes
+
+- 🌐 [Behance](https://behance.net/seulink)  
+- 💼 [LinkedIn](https://linkedin.com/in/seulink)  
+- 🎨 [Workana](https://www.workana.com/freelancer/seuperfil)
+
+✨ Obrigada por visitar meu GitHub!
+
 <div>
      <a href="https://https://github.com/f3rdinanda">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f3rdinanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
