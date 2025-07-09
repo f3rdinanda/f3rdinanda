@@ -1,4 +1,5 @@
 Olá! Eu sou Fernanda Fernandes!
+Web designer
 <div>
      <a href="https://https://github.com/f3rdinanda">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f3rdinanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
