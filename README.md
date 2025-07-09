@@ -1,6 +1,6 @@
 # Oi! Eu sou a Fernanda 💻✨
 
-🎓 Estudante de Sistemas de Informação  
+🎓 Técnica em Informática para Internet e estudante de Sistemas de Informação  
 🎨 Web Designer focada em Design Web e UX  
 💻 Apaixonada por transformar ideias em interfaces bonitas e funcionais  
 🎯 Em busca de oportunidades e crescimento constante
@@ -9,8 +9,8 @@
 
 - **Design Web:** Figma, Canva, Inkscape  
 - **Front-end:** HTML5, CSS3, JavaScript, Bootstrap  
-- **Back-end:** PHP, MySQL, C, Python (básico)  
-- **Outras:** Git, GitHub, WordPress, Office
+- **Back-end:** PHP, MySQL, C, C#, Python (básico)  
+- **Outras:** Git, GitHub, WordPress, Pacote Office
 
 ## 💼 Portfólio e redes
 
